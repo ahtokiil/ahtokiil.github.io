@@ -1,11 +1,11 @@
 title: Ahto Kiil # your name (or website title) here
 logo: "/images/AK_20220724_100201_Klaipeda_small.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Unversity of Tartu 
   <br><br>
-  Second description 
+  Data Science Portfolio 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ahto-kiil-094b47144/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
