@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Visualization in R - spring 2023
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Airlines from Tallinn](/sample_page)
+<img src="images/R_visulaization_airlines_spring2023.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
