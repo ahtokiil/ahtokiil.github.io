@@ -5,7 +5,7 @@
 ### Visualization in R - spring 2023
 
 [Airlines from Tallinn](/sample_page)
-<img src="images/R_visualization_airlines_spring2023.jpg?raw=true"/>
+<img src="images/R_visualization_airlines_spring2023.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
