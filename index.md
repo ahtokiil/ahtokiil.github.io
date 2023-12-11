@@ -9,13 +9,13 @@
 ---
 ### Shiny app in R - spring 2023
 
-[WRC 2022/23 season results](/sample_page)
+[WRC 2022/23 season results](/https://wrc2022rally1.shinyapps.io/wrc_tulemused/)
 <img src="images/WRC_shiny_screenshot.png"/>
 
 ---
 ### Visualization in R - spring 2023
 
-[Airlines from Tallinn](/sample_page)
+[Airlines from Tallinn]
 <img src="images/R_visualization_airlines_spring2023.JPG"/>
 ---
 
