@@ -1,34 +1,23 @@
 ## Portfolio
 
 ---
+### Estonian verb forms - fall 2023
 
+[Presentation poster](/sample_page)
+<img src="images/R_visualization_airlines_spring2023.JPG"/>
+
+---
+### Shiny app in R - spring 2023
+
+[WRC 2022/23 season results](/sample_page)
+<img src="images/WRC_shiny_screenshot.png"/>
+
+---
 ### Visualization in R - spring 2023
 
 [Airlines from Tallinn](/sample_page)
 <img src="images/R_visualization_airlines_spring2023.JPG"/>
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
