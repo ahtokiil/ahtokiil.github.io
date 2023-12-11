@@ -4,7 +4,7 @@
 ### Estonian verb forms - fall 2023
 
 [Presentation poster](/sample_page)
-<img src="images/R_visualization_airlines_spring2023.JPG"/>
+<img src="images/Poster_screenshot.png"/>
 
 ---
 ### Shiny app in R - spring 2023
@@ -16,6 +16,7 @@
 ### Visualization in R - spring 2023
 
 [Airlines from Tallinn]
+
 <img src="images/R_visualization_airlines_spring2023.JPG"/>
 ---
 
