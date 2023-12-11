@@ -4,6 +4,7 @@
 ### Estonian verb forms - fall 2023
 
 [Presentation poster](/sample_page)
+
 <img src="images/Poster_screenshot.png"/>
 
 ---
