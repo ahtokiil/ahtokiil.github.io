@@ -3,7 +3,7 @@
 ---
 ### Estonian verb forms - fall 2023
 
-[Presentation poster](/https://github.com/ahtokiil/ids_2023/blob/main/AKiil_verb_forms_poster_122023.pdf)
+[Presentation poster](/(https://github.com/ahtokiil/ids_2023/blob/main/AKiil_verb_forms_poster_122023.pdf))
 
 <img src="images/Poster_screenshot.png"/>
 
